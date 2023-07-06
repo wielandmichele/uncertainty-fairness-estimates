@@ -1,3 +1,4 @@
 # 📈Quantifying variability in estimates from fairness-promoting algorithms 👩‍🦰👴👳‍♀️
-final paper for ETH course "Fairness and Algorithms"
-add abstract
+Fairness metrics are widely used by machine learning practitioners. Therefore, they hold significant potential for use in practice. However, to use fairness metrics responsibly, they must be reliable. One approach to quantifying reliability is to measure the variance of fairness estimates. This study investigates variability by constructing 95 percent confidence intervals for fairness estimates resulting from three fairness-promoting algorithms. The results show that small sample sizes contribute to high variability in fairness estimates. Moreover, uncertainty in performance measures decreases much more rapidly with increasing sample size than in fairness estimates. This study highlights a problematic aspect of fairness estimates that needs to be addressed before they can be used in real-world applications, especially in safety-critical environments.
+
+-- Final paper for ETH-course "Fairness and Algorithms"
